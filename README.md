@@ -36,7 +36,7 @@
 
 ### Latest Publications 📝
 
-
+- [Classification and Persistence Analysis of Tie Strength on GitHub | WTIC @ WebMedia'20](https://doi.org/10.5753/webmedia_estendido.2020.13059)
 - [Detecting Collaboration Profiles in Success-based Music Genre Networks | ISMIR'20](https://opgabriel.github.io/ISMIR2020)
 - [Musical Genre Analysis over Dynamic Success-based Networks | WTDBD @ SBBD'20](https://sbbd.org.br/2020/wp-content/uploads/sites/13/2020/09/209322-Musical-Genre-Analysis-Over-Dynamic.pdf)
 - [Tie Strength in GitHub Heterogeneous Networks | WebMedia'18](http://doi.org/10.1145/3243082.3243101)
