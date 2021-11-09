@@ -1,11 +1,10 @@
 ### Hi there, I'm Gabriel! 👋
 
-## I'm a Computer Science MSc Student at UFMG, Brazil.
+## I'm a Computer Science PhD Student at UFMG, Brazil.
 - 🏢 I'm a member of the [Interdisciplinary Computer Science Lab (CS+X)][CSX]
 - 👨🏾‍💻 I’m currently working as a Research Assistant on [Project Bàde][bade]
 - 🔎 My research interests include Collaborative Domains, Music Computing, Data Science and Social Network Analysis 
-- 🤓 **2021 Goals:** Finish my Masters and improve my skills on Machine Learning
-- 😄 **Pronouns:** he/his
+- 😄 **Pronouns:** he/him
 - 🌐 **Fun fact:** I love learning new languages, and I can speak/understand Portuguese, English, Italian and Spanish :)
 
 ---
